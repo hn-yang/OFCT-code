@@ -1,24 +1,23 @@
--------------------------
-共有9个正确的微表情的检测结果
-共有137个正确的宏表情的检测结果
-共有146个正确的检测结果
-共预测出21个微表情
-共预测出308个宏表情
-总共预测出329个结果
-总共有357个真实的表情标注
+------------------------- 
+A total of 9 correct micro-expressions were detected 
+A total of 137 correct macro-expressions were detected 
+A total of 146 correct detections were detected 
+A total of 21 micro-expressions were predicted 
+A total of 308 macro-expressions were predicted 
+A total of 329 results were predicted 
+A total of 357 real emoticons were labeled
 ------------------
 ------------------
-------------------
-iou=0.5
-计算P系数,准确率：0.44376899696048633
-计算R系数,召回率：0.40896358543417366
-计算F系数,综合评价：0.4256559766763849
-iou=0.5 for mic
-计算P系数,准确率：0.42857142857142855
-计算R系数,召回率：0.15789473684210525
-计算F系数,综合评价：0.23076923076923078
-iou=0.5 for mac
-计算P系数,准确率：0.4448051948051948
-计算R系数,召回率：0.4566666666666667
-计算F系数,综合评价：0.4506578947368421
-0.9014718614718615
+------------------ 
+iou=0.5 
+Calculate P coefficient,Accuracy: 0.44376899696048633 
+Calculate R coefficient,Recall: 0.40896358543417366 
+Calculate F coefficient,Comprehensive evaluation: 0.4256559766763849 
+iou=0.5 for mic 
+Calculate P coefficient ,Accuracy: 0.42857142857142855 
+Calculate R coefficient,Recall: 0.15789473684210525 
+Calculate F coefficient,Overall evaluation: 0.23076923076923078 
+iou=0.5 for mac 
+Calculate P coefficient,Accuracy: 0.4448051948051948 
+Calculate R coefficient, Recall: 0.45666666666666666667 
+Calculated F coefficient,Comprehensive evaluation: 0.4506578947368421 
