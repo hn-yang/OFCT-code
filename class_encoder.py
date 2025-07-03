@@ -3,8 +3,8 @@ import pickle
 
 def class_encoder():
 
-    # with open('/home/wangz/yanghn/MES/remoteMEGC202201/word_vectors.pkl', 'rb') as fp:
-    with open('E:/byyq/MEGC202201/word_vectors.pkl', 'rb') as fp:
+    # with open('/home/wangz/yanghn/MES/word_vectors.pkl', 'rb') as fp:
+    with open('E:/byyq/word_vectors.pkl', 'rb') as fp:
         vocab = pickle.load(fp)
     vocab = vocab
     micro_vec = vocab['id2vec'][vocab['w2id']['micro']]
